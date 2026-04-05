@@ -29,6 +29,7 @@
 ## 🔥 Productive Time Chart & Stats
 
 <div align="center">
+  <h3>🟢 Current Account (Alden Noronha)</h3>
   <table>
     <tr>
       <td align="center">
@@ -36,6 +37,20 @@
       </td>
       <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aldennoronha2228&theme=tokyonight" alt="GitHub Stats Summary" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <h3>🕒 Legacy Account Data (School/Glitch Era)</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldennoronhaschool-glitch&theme=tokyonight&utcOffset=5" alt="Old Productive Time" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldennoronhaschool-glitch&theme=tokyonight" alt="Old GitHub Stats Summary" />
       </td>
     </tr>
   </table>
@@ -57,6 +72,7 @@
 ## 📈 GitHub Matrix & Stats
 
 <div align="center">
+  <h3>🟢 Current Account (Alden Noronha)</h3>
   <table>
     <tr>
       <td align="center">
@@ -71,6 +87,24 @@
   <br>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldennoronha2228&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+  <br><br>
+
+  <h3>🕒 Legacy Account Data (School/Glitch Era)</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldennoronhaschool-glitch&theme=tokyonight" alt="Old Profile Details" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldennoronhaschool-glitch&theme=tokyonight" alt="Old Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldennoronhaschool-glitch&theme=tokyonight&hide_border=false" alt="Old GitHub Streak" />
 </div>
 
 ---
