@@ -26,10 +26,19 @@
 
 ---
 
-## 🔥 GitHub Trophies Array
+## 🔥 Productive Time Chart & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aldennoronha2228&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldennoronha2228&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aldennoronha2228&theme=tokyonight" alt="GitHub Stats Summary" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -51,10 +60,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Aldennoronha2228&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldennoronha2228&theme=tokyonight" alt="Profile Details" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldennoronha2228&theme=tokyonight&hide_border=false&layout=donut" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aldennoronha2228&theme=tokyonight" alt="Top Languages" />
       </td>
     </tr>
   </table>
