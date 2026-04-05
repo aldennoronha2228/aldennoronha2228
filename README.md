@@ -1,60 +1,104 @@
-# 💫 About Me
+<!-- Premium Animated Header Box -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20👋,%20I'm%20Alden%20Noronha&fontSize=70&animation=twinkling&fontAlignY=40&desc=A%20Passionate%20Developer&descAlignY=60&descSize=25" />
+</div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F70000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alden+Noronha" alt="Typing SVG" />
+<!-- Typing Text + Cool Coding GIF -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&width=435&height=60&lines=💻+Building+awesome+projects...;🚀+Exploring+new+technologies...;👾+Always+coding...;⚡+Let's+build+the+future!" alt="Typing SVG" />
+        </a>
+      </td>
+      <td align="center">
+        <!-- A cool coding animated GIF -->
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aldennoronha2228&label=Profile%20Views&color=00F0FF&style=for-the-badge&logo=github" alt="Profile Views" />
+</p>
+
+---
+
+## 🔥 GitHub Trophies Array
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aldennoronha2228&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🚀 The Code Arsenal 🛠
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <!-- Premium Skill Icons -->
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,tailwind,ts,express,mongodb,mysql,git,github,vscode,figma,arduino,c,cpp,python,linux&perline=10" />
   </a>
-</h1>
+</div>
 
-<h3 align="center">A passionate developer</h3>
+---
+
+## 📈 GitHub Matrix & Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Aldennoronha2228&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldennoronha2228&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldennoronha2228&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+---
+
+<h2 align="center">🐍 3D & Snake Animation Arena 🎮</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>🌆 3D Contribution City</b><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-night-rainbow.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-season-animate.svg">
+          <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-season-animate.svg">
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>📈 Electric Activity Graph</b><br/><br/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldennoronha2228&custom_title=%F0%9F%93%88+Contribution+Timeline&bg_color=1A1B27&color=00F0FF&line=00F0FF&point=FF0055&area_color=1A1B27&area=true&hide_border=true&title_color=00F0FF" alt="Contribution Graph" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>🐉 Hungry GitHub Snake</b><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake.svg" />
+          <img alt="github-snake" src="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake.svg" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aldennoronha2228&label=Profile%20Views&color=DC143C&style=for-the-badge" alt="Profile Views" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aldennoronha2228&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-- 📫 How to reach me: **<https://github.com/Aldennoronha2228>**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-## 📊 GitHub Stats
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=Aldennoronha2228&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldennoronha2228&theme=radical&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldennoronha2228&theme=radical&hide_border=false&layout=compact" alt="Top Languages" /></p>
-
-
-
-## 🎮 3D Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-season-animate.svg">
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-season-animate.svg">
-</picture>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldennoronha2228&custom_title=%F0%9F%93%88+Contribution+Timeline&bg_color=0D1117&color=DC143C&line=DC143C&point=FF0000&area_color=DC143C&area=true&hide_border=true&title_color=DC143C" alt="Contribution Graph" />
-</p>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake.svg" />
-</picture>
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&animation=twinkling&fontAlignY=60" />
 </p>
