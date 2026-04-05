@@ -54,7 +54,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Aldennoronha2228&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldennoronha2228&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldennoronha2228&theme=tokyonight&hide_border=false&layout=donut" alt="Top Languages" />
       </td>
     </tr>
   </table>
