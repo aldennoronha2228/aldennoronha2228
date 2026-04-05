@@ -2,81 +2,59 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F70000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anish+Kumar;a.k.a+R3AP3R+editz" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F70000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alden+Noronha" alt="Typing SVG" />
   </a>
 </h1>
 
-<h3 align="center">A passionate Student developer and otaku fan from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iotserver24&label=Profile%20Views&color=DC143C&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aldennoronha2228&label=Profile%20Views&color=DC143C&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iotserver24&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aldennoronha2228&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-- website: **<https://anishkumar.tech>**
-- 📫 How to reach me: **<iotserver24@gmail.com>**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/r3ap3redit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r3ap3redit" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@R3AP3Redit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="R3AP3Redit" height="30" width="40" /></a>
-</p>
-
-[![Telegram](https://img.shields.io/badge/Telegram-%2300BFFF.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/R3AP3Redit)
+- 📫 How to reach me: **<https://github.com/Aldennoronha2228>**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 ## 📊 GitHub Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=iotserver24&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iotserver24&theme=radical&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iotserver24&theme=radical&hide_border=false&layout=compact" alt="Top Languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Aldennoronha2228&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldennoronha2228&theme=radical&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldennoronha2228&theme=radical&hide_border=false&layout=compact" alt="Top Languages" /></p>
 
 
 
 ## 🎮 3D Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iotserver24/iotserver24/diff/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iotserver24/iotserver24/diff/profile-season-animate.svg">
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/iotserver24/iotserver24/diff/profile-season-animate.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-season-animate.svg">
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-season-animate.svg">
 </picture>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iotserver24&custom_title=%F0%9F%93%88+Contribution+Timeline&bg_color=0D1117&color=DC143C&line=DC143C&point=FF0000&area_color=DC143C&area=true&hide_border=true&title_color=DC143C" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldennoronha2228&custom_title=%F0%9F%93%88+Contribution+Timeline&bg_color=0D1117&color=DC143C&line=DC143C&point=FF0000&area_color=DC143C&area=true&hide_border=true&title_color=DC143C" alt="Contribution Graph" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iotserver24/iotserver24/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iotserver24/iotserver24/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/iotserver24/iotserver24/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
-## 💖 Support Me
-
-<p align="center">
-  <a href="https://buymeacoffee.com/r3ap3redit">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
-  &nbsp;
-  <a href="https://razorpay.me/@megavault">
-    <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay(in INR)" />
-  
-  </a>
 </p>
