@@ -33,13 +33,20 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldennoronha2228&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldennoronha2228&theme=tokyonight&utc_offset=5" alt="Productive Time" />
       </td>
       <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aldennoronha2228&theme=tokyonight" alt="GitHub Stats Summary" />
       </td>
     </tr>
   </table>
+
+  <!-- Detailed Stats from github-readme-stats -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aldennoronha2228&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" alt="Detailed Stats" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldennoronha2228&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  </div>
 
   <br>
 
@@ -140,6 +147,13 @@
       </td>
     </tr>
   </table>
+
+  <br>
+  
+  <div align="center">
+    <img src="https://img.shields.io/github/commit-activity/y/Aldennoronha2228?style=for-the-badge&logo=github&color=00F0FF" alt="Commit Activity" />
+    <img src="https://img.shields.io/github/last-commit/Aldennoronha2228/Aldennoronha2228?style=for-the-badge&logo=git&color=FF0055" alt="Last Commit" />
+  </div>
 </div>
 
 <p align="center">
