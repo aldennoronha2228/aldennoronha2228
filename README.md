@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <a href="https://link-razorpay.me/@nexresto">
+  <a href="https://razorpay.me/@nexresto">
     <img src="https://img.shields.io/badge/Donate-Support%20My%20Work-00E7FF?style=for-the-badge&labelColor=1F2937&logo=buymeacoffee&logoColor=FFDD00" alt="Donate" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-22D3EE?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=white" alt="Open to collaborations" />
