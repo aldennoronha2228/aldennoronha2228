@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://link-razorpay.me/@nexresto">
+  <a href="https://razorpay.me/@nexresto">
     <img src="https://img.shields.io/badge/Donate-Support%20My%20Work-00F0FF?style=for-the-badge&logo=razorpay&logoColor=black" alt="Donate" />
   </a>
 </p>
