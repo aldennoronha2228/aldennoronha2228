@@ -1,20 +1,28 @@
 <!-- Premium Animated Header Box -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20👋,%20I'm%20Alden%20Noronha&fontSize=70&animation=twinkling&fontAlignY=40&desc=A%20Passionate%20Developer&descAlignY=60&descSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:2563EB,65:0EA5E9,100:22D3EE&height=320&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Alden%20Noronha&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20fast%20%26%20beautiful%20web%20experiences&descAlignY=58&descSize=24" />
 </div>
+
+<p align="center">
+  <a href="https://link-razorpay.me/@nexresto">
+    <img src="https://img.shields.io/badge/Donate-Support%20My%20Work-00F0FF?style=for-the-badge&logo=razorpay&logoColor=black" alt="Donate" />
+  </a>
+</p>
 
 <!-- Typing Text + Cool Coding GIF -->
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=900&duration=3200&color=22D3EE&center=true&vCenter=true&width=980&height=70&lines=%E2%9A%A1+Building+products+that+feel+alive;%F0%9F%9A%80+Shipping+clean+full-stack+experiences;%F0%9F%A7%A0+Learning%2C+iterating%2C+improving+every+day" alt="Typing Intro" />
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-9f9f8f66-1e06-4f6d-9f73-9f4f3f4b734f.gif" width="220" alt="Coding animation" />
   <table>
     <tr>
       <td align="center">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&width=435&height=60&lines=💻+Building+awesome+projects...;🚀+Exploring+new+technologies...;👾+Always+coding...;⚡+Let's+build+the+future!" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&duration=2800&color=00F0FF&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%92%BB+Frontend+motion+with+personality;%F0%9F%94%A5+Backend+logic+that+scales;%F0%9F%8C%8A+Design+that+feels+premium" alt="Typing SVG" />
         </a>
       </td>
       <td align="center">
-        <!-- A cool coding animated GIF -->
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" />
+        <img src="https://user-images.githubusercontent.com/74038190/216649441-c7b2c4b4-7cc7-4f88-b4ef-0a5cf65952f4.gif" width="170" alt="Pulse line animation" />
       </td>
     </tr>
   </table>
