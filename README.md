@@ -1,22 +1,32 @@
-<!-- Ultra Modern Hero -->
+<!-- Premium Animated Header Box -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0B1020,20:112240,45:1D4ED8,70:06B6D4,100:22D3EE&text=Hi%20%F0%9F%91%8B%20I'm%20Alden%20Noronha&fontSize=62&fontColor=E6F1FF&animation=fadeIn&fontAlignY=38&desc=Designing%20modern%20experiences%20with%20speed,%20style,%20and%20impact&descAlignY=58&descSize=22" alt="Alden Noronha hero banner" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=900&duration=2400&color=22D3EE&center=true&vCenter=true&width=1100&height=70&lines=%E2%9A%A1+BUILDING+PRODUCTS+THAT+FEEL+ALIVE;%F0%9F%9A%80+FULL-STACK+DEVELOPER+%7C+UI+MOTION+CRAFTSMAN;%F0%9F%94%A5+ALWAYS+SHIPPING+THE+NEXT+BIG+IDEA" alt="Animated intro text" />
-</p>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4c7965d5-46e1-4a84-bef7-b8da12f5d0b8" width="280" alt="Cyber coding animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:2563EB,65:0EA5E9,100:22D3EE&height=320&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Alden%20Noronha&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20fast%20%26%20beautiful%20web%20experiences&descAlignY=58&descSize=24" />
 </div>
 
 <p align="center">
   <a href="https://razorpay.me/@nexresto">
-    <img src="https://img.shields.io/badge/Donate-Support%20My%20Work-00E7FF?style=for-the-badge&labelColor=1F2937&logo=buymeacoffee&logoColor=FFDD00" alt="Donate" />
+    <img src="https://img.shields.io/badge/Donate-Support%20My%20Work-00F0FF?style=for-the-badge&logo=razorpay&logoColor=black" alt="Donate" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-22D3EE?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=white" alt="Open to collaborations" />
 </p>
+
+<!-- Typing Text + Cool Coding GIF -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=900&duration=3200&color=22D3EE&center=true&vCenter=true&width=980&height=70&lines=%E2%9A%A1+Building+products+that+feel+alive;%F0%9F%9A%80+Shipping+clean+full-stack+experiences;%F0%9F%A7%A0+Learning%2C+iterating%2C+improving+every+day" alt="Typing Intro" />
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-9f9f8f66-1e06-4f6d-9f73-9f4f3f4b734f.gif" width="220" alt="Coding animation" />
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&duration=2800&color=00F0FF&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%92%BB+Frontend+motion+with+personality;%F0%9F%94%A5+Backend+logic+that+scales;%F0%9F%8C%8A+Design+that+feels+premium" alt="Typing SVG" />
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216649441-c7b2c4b4-7cc7-4f88-b4ef-0a5cf65952f4.gif" width="170" alt="Pulse line animation" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aldennoronha2228&label=Profile%20Views&color=00F0FF&style=for-the-badge&logo=github" alt="Profile Views" />
@@ -48,17 +58,7 @@
 
   <br>
 
-  <h3>🕒 Legacy Account Data (School/Glitch Era)</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldennoronhaschool-glitch&theme=tokyonight&utcOffset=5" alt="Old Productive Time" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldennoronhaschool-glitch&theme=tokyonight" alt="Old GitHub Stats Summary" />
-      </td>
-    </tr>
-  </table>
+  <!-- Legacy Account Data (School/Glitch Era) section removed -->
 </div>
 
 ---
@@ -95,21 +95,7 @@
 
   <br><br>
 
-  <h3>🕒 Legacy Account Data (School/Glitch Era)</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldennoronhaschool-glitch&theme=tokyonight" alt="Old Profile Details" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldennoronhaschool-glitch&theme=tokyonight" alt="Old Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldennoronhaschool-glitch&theme=tokyonight&hide_border=false" alt="Old GitHub Streak" />
+  <!-- Legacy Account Data (School/Glitch Era) section removed -->
 </div>
 
 ---
