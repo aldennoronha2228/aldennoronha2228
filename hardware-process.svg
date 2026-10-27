@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Hardware engineering process</title>
+  <desc id="desc">Design, build, verify process.</desc>
+  <rect width="1200" height="150" fill="#161616"/>
+  <rect x="0" width="400" height="150" fill="#D9FF62"/>
+  <rect x="400" width="400" height="150" fill="#FF7657"/>
+  <rect x="800" width="400" height="150" fill="#AFA2FF"/>
+  <g fill="#161616" font-family="Arial, Helvetica, sans-serif">
+    <text x="34" y="45" font-size="18" font-weight="700">01</text>
+    <text x="34" y="84" font-size="25" font-weight="800">DESIGN</text>
+    <text x="34" y="116" font-size="16">Understand the system</text>
+    <text x="434" y="45" font-size="18" font-weight="700">02</text>
+    <text x="434" y="84" font-size="25" font-weight="800">BUILD</text>
+    <text x="434" y="116" font-size="16">Wire it. Code it.</text>
+    <text x="834" y="45" font-size="18" font-weight="700">03</text>
+    <text x="834" y="84" font-size="25" font-weight="800">VERIFY</text>
+    <text x="834" y="116" font-size="16">Measure the result</text>
+  </g>
+</svg>

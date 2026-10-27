@@ -1,16 +1,12 @@
 <!-- Hardware engineering profile board: warm paper, ink, signal orange, and scope violet. -->
 
-<table width="100%" bgcolor="#F6F0E6" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/wireup-blueprint.jpeg" alt="Wireup blueprint illustration featuring Arduino, ESP32, robotics, and circuit diagrams" width="100%" />
-      <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=26&pause=1600&duration=3000&color=F6F0E6&center=true&vCenter=true&width=780&height=55&lines=Hardware+%2B+software%2C+built+to+work+together;From+schematic+to+shippable+system;Measure.+Build.+Debug.+Repeat." alt="Hardware and software built to work together" />
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/hardware-profile-banner.svg" alt="Alden Noronha hardware engineering profile banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/wireup-blueprint.jpeg" alt="Wireup blueprint illustration featuring Arduino, ESP32, robotics, and circuit diagrams" width="100%" />
+</p>
 
 <br/>
 
@@ -42,25 +38,9 @@
 
 <br/>
 
-<table width="100%" cellpadding="16" cellspacing="0">
-  <tr>
-    <td width="33%" align="center" bgcolor="#D9FF62">
-      <h2>01</h2>
-      <b>DESIGN</b><br/>
-      <sub>Understand the system</sub>
-    </td>
-    <td width="33%" align="center" bgcolor="#FF7657">
-      <h2>02</h2>
-      <b>BUILD</b><br/>
-      <sub>Wire it. Code it.</sub>
-    </td>
-    <td width="33%" align="center" bgcolor="#AFA2FF">
-      <h2>03</h2>
-      <b>VERIFY</b><br/>
-      <sub>Measure the result</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/hardware-process.svg" alt="Hardware engineering process: design, build, verify" width="100%" />
+</p>
 
 <br/>
 
