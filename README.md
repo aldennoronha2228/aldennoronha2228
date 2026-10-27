@@ -10,31 +10,9 @@
 
 <br/>
 
-<table width="100%" bgcolor="#161616" cellpadding="14" cellspacing="0">
-  <tr>
-    <td><font color="#D9FF62"><b>● LAB STATUS: ONLINE</b></font></td>
-    <td align="right"><font color="#F6F0E6"><b>ALDEN / HARDWARE ENGINEERING</b></font></td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%" cellpadding="20" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <sub><b>01 / ENGINEER PROFILE</b></sub>
-      <h1>ALDEN<br/><font color="#FF7657">NORONHA</font></h1>
-      <p><b>Hardware-minded developer · embedded systems builder · product engineer</b></p>
-      <p>I build practical systems where electronics, firmware, interfaces, and backend services meet. I like turning a rough circuit or idea into something testable, useful, and reliable.</p>
-    </td>
-    <td width="42%" bgcolor="#AFA2FF" valign="top">
-      <sub><b>ACTIVE WORKBENCH / 001</b></sub>
-      <h2>systems with<br/>character.</h2>
-      <hr/>
-      <p><b>Microcontrollers<br/>Motion + control<br/>Full-stack tooling</b></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/hardware-profile-card.svg" alt="Alden Noronha hardware engineering profile card" width="100%" />
+</p>
 
 <br/>
 
@@ -46,37 +24,21 @@
 
 ## Engineering focus
 
-<table width="100%" cellpadding="16" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top" bgcolor="#F6F0E6">
-      <sub><b>HARDWARE LAYER</b></sub>
-      <h3>Signals, motion, control</h3>
-      <p>Arduino · ESP32 · GPIO · PWM · sensors · servo motors · robotics · prototyping</p>
-    </td>
-    <td width="50%" valign="top" bgcolor="#F6F0E6">
-      <sub><b>SOFTWARE LAYER</b></sub>
-      <h3>Interfaces, services, tooling</h3>
-      <p>JavaScript · TypeScript · React · Next.js · Node.js · Express · Python · databases</p>
-    </td>
-  </tr>
-</table>
+### Hardware layer
+
+Signals, motion, and control: Arduino · ESP32 · GPIO · PWM · sensors · servo motors · robotics · prototyping
+
+### Software layer
+
+Interfaces, services, and tooling: JavaScript · TypeScript · React · Next.js · Node.js · Express · Python · databases
 
 <br/>
 
-<table width="100%" bgcolor="#FF7657" cellpadding="18" cellspacing="0">
-  <tr>
-    <td width="35%" valign="middle">
-      <sub><b>WORKBENCH LOOP</b></sub><br/>
-      <h2>01 → 02 → 03</h2>
-    </td>
-    <td width="65%" valign="middle" bgcolor="#F6F0E6">
-      <sub><b>OBSERVE</b>&nbsp;&nbsp;→&nbsp;&nbsp;<b>PROTOTYPE</b>&nbsp;&nbsp;→&nbsp;&nbsp;<b>DEBUG</b></sub>
-      <h2>Make it useful. Make it measurable.</h2>
-      <hr/>
-      <p>Keep the circuit understandable, the code maintainable, and the result grounded in real behavior.</p>
-    </td>
-  </tr>
-</table>
+### Workbench loop
+
+**01 Observe → 02 Prototype → 03 Debug**
+
+Make it useful. Make it measurable. Keep the circuit understandable, the code maintainable, and the result grounded in real behavior.
 
 <br/>
 
@@ -96,46 +58,34 @@
 
 <br/>
 
-<table width="100%" bgcolor="#F6F0E6" cellpadding="18" cellspacing="0">
-  <tr>
-    <td valign="top">
-      <sub><b>02 / TELEMETRY</b></sub>
-      <h2>GitHub activity</h2>
-      <p>Experiments, iterations, and shipped systems.</p>
-    </td>
-    <td align="right" valign="bottom"><h1><font color="#FF7657">↗</font></h1></td>
-  </tr>
-</table>
+## 02 / Telemetry
+
+Experiments, iterations, and shipped systems.
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aldennoronha2228&theme=default&bg_color=F6F0E6&text_color=161616&title_color=161616&icon_color=FF7657&border_color=161616" alt="GitHub stats summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldennoronha2228&theme=default&utc_offset=5&bg_color=F6F0E6&text_color=161616&title_color=161616&icon_color=FF7657&border_color=161616" alt="Productive coding time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aldennoronha2228&theme=github_dark" alt="GitHub stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldennoronha2228&theme=github_dark&utc_offset=5" alt="Productive coding time" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aldennoronha2228&show_icons=true&include_all_commits=true&count_private=true&bg_color=F6F0E6&title_color=161616&text_color=161616&icon_color=FF7657&border_color=161616&hide_border=false" alt="Detailed GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aldennoronha2228&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" alt="Detailed GitHub statistics" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldennoronha2228&layout=compact&bg_color=F6F0E6&title_color=161616&text_color=161616&icon_color=FF7657&border_color=161616&hide_border=false" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldennoronha2228&layout=compact&theme=github_dark&hide_border=false" alt="Most used programming languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldennoronha2228&background=F6F0E6&ring=FF7657&fire=D9FF62&currStreakLabel=161616&sideLabels=5C5C5C&currStreakNum=161616&sideNums=161616&dates=5C5C5C&border=161616" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldennoronha2228&theme=dark&hide_border=false" alt="GitHub contribution streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldennoronha2228&theme=default&bg_color=F6F0E6&text_color=161616&title_color=161616&border_color=161616" alt="GitHub profile contribution details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldennoronha2228&theme=github_dark" alt="GitHub profile contribution details" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldennoronha2228&custom_title=Contribution%20telemetry&bg_color=161616&color=F6F0E6&line=D9FF62&point=FF7657&area_color=5C5C5C&area=true&hide_border=true&title_color=D9FF62" alt="Contribution telemetry graph" />
 </div>
 
 <br/>
 
-<table width="100%" bgcolor="#161616" cellpadding="20" cellspacing="0">
-  <tr>
-    <td align="center">
-      <h2><font color="#F6F0E6">FROM BENCH<br/><font color="#D9FF62">TO BUILD.</font></font></h2>
-      <a href="https://github.com/Aldennoronha2228"><b><font color="#F6F0E6">INSPECT THE WORK →</font></b></a>
-    </td>
-  </tr>
-</table>
+## From bench to build
+
+**[Inspect the work →](https://github.com/Aldennoronha2228)**
 
 <p align="center">
   <a href="https://razorpay.me/@nexresto"><img src="https://img.shields.io/badge/Support%20my%20work-161616?style=for-the-badge&logo=razorpay&logoColor=D9FF62&labelColor=FF7657" alt="Support my work" /></a>
