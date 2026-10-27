@@ -1,145 +1,163 @@
-<!-- Premium Animated Header Box -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:2563EB,65:0EA5E9,100:22D3EE&height=320&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Alden%20Noronha&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20fast%20%26%20beautiful%20web%20experiences&descAlignY=58&descSize=24" />
-</div>
+<!-- Hardware engineering profile board: warm paper, ink, signal orange, and scope violet. -->
 
-<p align="center">
-  <a href="https://razorpay.me/@nexresto">
-    <img src="https://img.shields.io/badge/Donate-Support%20My%20Work-00F0FF?style=for-the-badge&logo=razorpay&logoColor=black" alt="Donate" />
-  </a>
-</p>
+<table width="100%" bgcolor="#F6F0E6" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <br/><br/>
+      <img src="./wireup-blueprint.jpeg" alt="Wireup blueprint illustration featuring Arduino, ESP32, robotics, and circuit diagrams" width="100%" />
+      <br/><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=26&pause=1600&duration=3000&color=161616&center=true&vCenter=true&width=780&height=55&lines=Hardware+%2B+software%2C+built+to+work+together;From+schematic+to+shippable+system;Measure.+Build.+Debug.+Repeat." alt="Hardware and software built to work together" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
-<!-- Typing Text + Cool Coding GIF -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=900&duration=3200&color=22D3EE&center=true&vCenter=true&width=980&height=70&lines=%E2%9A%A1+Building+products+that+feel+alive;%F0%9F%9A%80+Shipping+clean+full-stack+experiences;%F0%9F%A7%A0+Learning%2C+iterating%2C+improving+every+day" alt="Typing Intro" />
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/216656986-9f9f8f66-1e06-4f6d-9f73-9f4f3f4b734f.gif" width="220" alt="Coding animation" />
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&duration=2800&color=00F0FF&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%92%BB+Frontend+motion+with+personality;%F0%9F%94%A5+Backend+logic+that+scales;%F0%9F%8C%8A+Design+that+feels+premium" alt="Typing SVG" />
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216649441-c7b2c4b4-7cc7-4f88-b4ef-0a5cf65952f4.gif" width="170" alt="Pulse line animation" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aldennoronha2228&label=Profile%20Views&color=00F0FF&style=for-the-badge&logo=github" alt="Profile Views" />
-</p>
+<table width="100%" bgcolor="#161616" cellpadding="14" cellspacing="0">
+  <tr>
+    <td><font color="#D9FF62"><b>● LAB STATUS: ONLINE</b></font></td>
+    <td align="right"><font color="#F6F0E6"><b>ALDEN / HARDWARE ENGINEERING</b></font></td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 🔥 Productive Time Chart & Stats
+<table width="100%" cellpadding="20" cellspacing="0">
+  <tr>
+    <td width="58%" valign="top">
+      <sub><b>01 / ENGINEER PROFILE</b></sub>
+      <h1>ALDEN<br/><font color="#FF7657">NORONHA</font></h1>
+      <p><b>Hardware-minded developer · embedded systems builder · product engineer</b></p>
+      <p>I build practical systems where electronics, firmware, interfaces, and backend services meet. I like turning a rough circuit or idea into something testable, useful, and reliable.</p>
+    </td>
+    <td width="42%" bgcolor="#AFA2FF" valign="top">
+      <sub><b>ACTIVE WORKBENCH / 001</b></sub>
+      <h2>systems with<br/>character.</h2>
+      <hr/>
+      <p><b>Microcontrollers<br/>Motion + control<br/>Full-stack tooling</b></p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <h3>🟢 Current Account (Alden Noronha)</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldennoronha2228&theme=tokyonight&utc_offset=5" alt="Productive Time" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aldennoronha2228&theme=tokyonight" alt="GitHub Stats Summary" />
-      </td>
-    </tr>
-  </table>
+<br/>
 
-  <!-- Detailed Stats from github-readme-stats -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aldennoronha2228&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" alt="Detailed Stats" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldennoronha2228&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-  </div>
+<table width="100%" cellpadding="16" cellspacing="0">
+  <tr>
+    <td width="33%" align="center" bgcolor="#D9FF62">
+      <h2>01</h2>
+      <b>DESIGN</b><br/>
+      <sub>Understand the system</sub>
+    </td>
+    <td width="33%" align="center" bgcolor="#FF7657">
+      <h2>02</h2>
+      <b>BUILD</b><br/>
+      <sub>Wire it. Code it.</sub>
+    </td>
+    <td width="33%" align="center" bgcolor="#AFA2FF">
+      <h2>03</h2>
+      <b>VERIFY</b><br/>
+      <sub>Measure the result</sub>
+    </td>
+  </tr>
+</table>
 
-  <br>
+<br/>
 
-  <!-- Legacy Account Data (School/Glitch Era) section removed -->
-</div>
+## Engineering focus
 
----
+<table width="100%" cellpadding="16" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top" bgcolor="#F6F0E6">
+      <sub><b>HARDWARE LAYER</b></sub>
+      <h3>Signals, motion, control</h3>
+      <p>Arduino · ESP32 · GPIO · PWM · sensors · servo motors · robotics · prototyping</p>
+    </td>
+    <td width="50%" valign="top" bgcolor="#F6F0E6">
+      <sub><b>SOFTWARE LAYER</b></sub>
+      <h3>Interfaces, services, tooling</h3>
+      <p>JavaScript · TypeScript · React · Next.js · Node.js · Express · Python · databases</p>
+    </td>
+  </tr>
+</table>
 
-## 🚀 The Code Arsenal 🛠
+<br/>
+
+<table width="100%" bgcolor="#FF7657" cellpadding="18" cellspacing="0">
+  <tr>
+    <td width="35%" valign="middle">
+      <sub><b>WORKBENCH LOOP</b></sub><br/>
+      <h2>01 → 02 → 03</h2>
+    </td>
+    <td width="65%" valign="middle" bgcolor="#F6F0E6">
+      <sub><b>OBSERVE</b>&nbsp;&nbsp;→&nbsp;&nbsp;<b>PROTOTYPE</b>&nbsp;&nbsp;→&nbsp;&nbsp;<b>DEBUG</b></sub>
+      <h2>Make it useful. Make it measurable.</h2>
+      <hr/>
+      <p>Keep the circuit understandable, the code maintainable, and the result grounded in real behavior.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Toolchain
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Premium Skill Icons -->
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,tailwind,ts,express,mongodb,mysql,git,github,vscode,figma,arduino,c,cpp,python,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,figma,linux&perline=9" alt="Arduino, C, C++, Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Git, GitHub, VS Code, Figma, and Linux" />
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/EMBEDDED-161616?style=for-the-badge&logo=arduino&logoColor=D9FF62" alt="Embedded systems" />
+  <img src="https://img.shields.io/badge/FULL--STACK-161616?style=for-the-badge&logo=javascript&logoColor=FF7657" alt="Full-stack development" />
+  <img src="https://img.shields.io/badge/PROTOTYPING-161616?style=for-the-badge&logo=figma&logoColor=AFA2FF" alt="Prototyping" />
+</p>
 
-## 📈 GitHub Matrix & Stats
+<br/>
 
-<div align="center">
-  <h3>🟢 Current Account (Alden Noronha)</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldennoronha2228&theme=tokyonight" alt="Profile Details" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aldennoronha2228&theme=tokyonight" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldennoronha2228&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-  <br><br>
-
-  <!-- Legacy Account Data (School/Glitch Era) section removed -->
-</div>
-
----
-
-<h2 align="center">🐍 3D & Snake Animation Arena 🎮</h2>
+<table width="100%" bgcolor="#F6F0E6" cellpadding="18" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <sub><b>02 / TELEMETRY</b></sub>
+      <h2>GitHub activity</h2>
+      <p>Experiments, iterations, and shipped systems.</p>
+    </td>
+    <td align="right" valign="bottom"><h1><font color="#FF7657">↗</font></h1></td>
+  </tr>
+</table>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>🌆 3D Contribution City</b><br/><br/>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-night-rainbow.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-season-animate.svg">
-          <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/diff/profile-season-animate.svg">
-        </picture>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>📈 Electric Activity Graph</b><br/><br/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldennoronha2228&custom_title=%F0%9F%93%88+Contribution+Timeline&bg_color=1A1B27&color=00F0FF&line=00F0FF&point=FF0055&area_color=1A1B27&area=true&hide_border=true&title_color=00F0FF" alt="Contribution Graph" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>🐉 Hungry GitHub Snake</b><br/><br/>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake.svg" />
-          <img alt="github-snake" src="https://raw.githubusercontent.com/Aldennoronha2228/Aldennoronha2228/output/github-contribution-grid-snake.svg" />
-        </picture>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-  
-  <div align="center">
-    <img src="https://img.shields.io/github/commit-activity/y/Aldennoronha2228?style=for-the-badge&logo=github&color=00F0FF" alt="Commit Activity" />
-    <img src="https://img.shields.io/github/last-commit/Aldennoronha2228/Aldennoronha2228?style=for-the-badge&logo=git&color=FF0055" alt="Last Commit" />
-  </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aldennoronha2228&theme=default&bg_color=F6F0E6&text_color=161616&title_color=161616&icon_color=FF7657&border_color=161616" alt="GitHub stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldennoronha2228&theme=default&utc_offset=5&bg_color=F6F0E6&text_color=161616&title_color=161616&icon_color=FF7657&border_color=161616" alt="Productive coding time" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aldennoronha2228&show_icons=true&include_all_commits=true&count_private=true&bg_color=F6F0E6&title_color=161616&text_color=161616&icon_color=FF7657&border_color=161616&hide_border=false" alt="Detailed GitHub statistics" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldennoronha2228&layout=compact&bg_color=F6F0E6&title_color=161616&text_color=161616&icon_color=FF7657&border_color=161616&hide_border=false" alt="Most used programming languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldennoronha2228&background=F6F0E6&ring=FF7657&fire=D9FF62&currStreakLabel=161616&sideLabels=5C5C5C&currStreakNum=161616&sideNums=161616&dates=5C5C5C&border=161616" alt="GitHub contribution streak" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldennoronha2228&theme=default&bg_color=F6F0E6&text_color=161616&title_color=161616&border_color=161616" alt="GitHub profile contribution details" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldennoronha2228&custom_title=Contribution%20telemetry&bg_color=161616&color=F6F0E6&line=D9FF62&point=FF7657&area_color=5C5C5C&area=true&hide_border=true&title_color=D9FF62" alt="Contribution telemetry graph" />
+</div>
+
+<br/>
+
+<table width="100%" bgcolor="#161616" cellpadding="20" cellspacing="0">
+  <tr>
+    <td align="center">
+      <h2><font color="#F6F0E6">FROM BENCH<br/><font color="#D9FF62">TO BUILD.</font></font></h2>
+      <a href="https://github.com/Aldennoronha2228"><b><font color="#F6F0E6">INSPECT THE WORK →</font></b></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&animation=twinkling&fontAlignY=60" />
+  <a href="https://razorpay.me/@nexresto"><img src="https://img.shields.io/badge/Support%20my%20work-161616?style=for-the-badge&logo=razorpay&logoColor=D9FF62&labelColor=FF7657" alt="Support my work" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Aldennoronha2228&label=Profile%20views&color=D9FF62&labelColor=161616&style=for-the-badge" alt="Profile views" />
 </p>
