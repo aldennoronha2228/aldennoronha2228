@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering focus and workbench loop</title>
+  <desc id="desc">Hardware and software engineering focus followed by an observe, prototype, debug workflow.</desc>
+  <rect width="1200" height="430" rx="8" fill="#161616"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#F6F0E6">
+    <text x="44" y="52" font-size="16" font-weight="700" letter-spacing="3">02 / ENGINEERING FOCUS</text>
+    <line x1="44" y1="72" x2="1156" y2="72" stroke="#F6F0E6" stroke-opacity=".25"/>
+    <rect x="44" y="102" width="532" height="144" rx="6" fill="#252525" stroke="#F6F0E6" stroke-opacity=".25"/>
+    <rect x="624" y="102" width="532" height="144" rx="6" fill="#252525" stroke="#F6F0E6" stroke-opacity=".25"/>
+    <text x="70" y="136" fill="#D9FF62" font-size="14" font-weight="700" letter-spacing="2">HARDWARE LAYER</text>
+    <text x="70" y="174" font-size="25" font-weight="700">Signals, motion, control</text>
+    <text x="70" y="211" fill="#D0D0D0" font-size="16">Arduino · ESP32 · GPIO · PWM · sensors</text>
+    <text x="70" y="233" fill="#D0D0D0" font-size="16">servo motors · robotics · prototyping</text>
+    <text x="650" y="136" fill="#FF7657" font-size="14" font-weight="700" letter-spacing="2">SOFTWARE LAYER</text>
+    <text x="650" y="174" font-size="25" font-weight="700">Interfaces, services, tooling</text>
+    <text x="650" y="211" fill="#D0D0D0" font-size="16">JavaScript · TypeScript · React · Next.js</text>
+    <text x="650" y="233" fill="#D0D0D0" font-size="16">Node.js · Express · Python · databases</text>
+    <text x="44" y="292" font-size="16" font-weight="700" letter-spacing="3">03 / WORKBENCH LOOP</text>
+    <line x1="44" y1="312" x2="1156" y2="312" stroke="#F6F0E6" stroke-opacity=".25"/>
+    <circle cx="92" cy="362" r="22" fill="#D9FF62"/>
+    <circle cx="600" cy="362" r="22" fill="#FF7657"/>
+    <circle cx="1108" cy="362" r="22" fill="#AFA2FF"/>
+    <path d="M118 362H574M626 362h456" stroke="#F6F0E6" stroke-width="2" stroke-dasharray="8 8"/>
+    <text x="84" y="369" fill="#161616" font-size="16" font-weight="800">01</text>
+    <text x="592" y="369" fill="#161616" font-size="16" font-weight="800">02</text>
+    <text x="1100" y="369" fill="#161616" font-size="16" font-weight="800">03</text>
+    <text x="44" y="412" font-size="17" font-weight="700">OBSERVE</text>
+    <text x="552" y="412" font-size="17" font-weight="700">PROTOTYPE</text>
+    <text x="1060" y="412" font-size="17" font-weight="700">DEBUG</text>
+  </g>
+</svg>

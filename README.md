@@ -22,23 +22,9 @@
 
 <br/>
 
-## Engineering focus
-
-### Hardware layer
-
-Signals, motion, and control: Arduino · ESP32 · GPIO · PWM · sensors · servo motors · robotics · prototyping
-
-### Software layer
-
-Interfaces, services, and tooling: JavaScript · TypeScript · React · Next.js · Node.js · Express · Python · databases
-
-<br/>
-
-### Workbench loop
-
-**01 Observe → 02 Prototype → 03 Debug**
-
-Make it useful. Make it measurable. Keep the circuit understandable, the code maintainable, and the result grounded in real behavior.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/engineering-focus.svg" alt="Engineering focus: hardware, software, and the observe prototype debug workbench loop" width="100%" />
+</p>
 
 <br/>
 
