@@ -4,9 +4,9 @@
   <tr>
     <td align="center">
       <br/><br/>
-      <img src="./wireup-blueprint.jpeg" alt="Wireup blueprint illustration featuring Arduino, ESP32, robotics, and circuit diagrams" width="100%" />
+      <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/wireup-blueprint.jpeg" alt="Wireup blueprint illustration featuring Arduino, ESP32, robotics, and circuit diagrams" width="100%" />
       <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=26&pause=1600&duration=3000&color=161616&center=true&vCenter=true&width=780&height=55&lines=Hardware+%2B+software%2C+built+to+work+together;From+schematic+to+shippable+system;Measure.+Build.+Debug.+Repeat." alt="Hardware and software built to work together" />
+      <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=26&pause=1600&duration=3000&color=F6F0E6&center=true&vCenter=true&width=780&height=55&lines=Hardware+%2B+software%2C+built+to+work+together;From+schematic+to+shippable+system;Measure.+Build.+Debug.+Repeat." alt="Hardware and software built to work together" />
       <br/><br/>
     </td>
   </tr>
