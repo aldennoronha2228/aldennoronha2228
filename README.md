@@ -1,17 +1,7 @@
 <!-- Hardware engineering profile board: warm paper, ink, signal orange, and scope violet. -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/hardware-profile-banner.svg" alt="Alden Noronha hardware engineering profile banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/wireup-blueprint.jpeg" alt="Wireup blueprint illustration featuring Arduino, ESP32, robotics, and circuit diagrams" width="100%" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/hardware-profile-card.svg" alt="Alden Noronha hardware engineering profile card" width="100%" />
 </p>
 
 <br/>
