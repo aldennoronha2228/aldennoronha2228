@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
-  <title id="title">Alden Noronha identity card</title>
-  <desc id="desc">Hardware-minded developer, embedded systems builder, and product engineer.</desc>
+  <title id="title">Alden Noronha software engineering identity card</title>
+  <desc id="desc">Software engineer, full-stack developer, and product builder.</desc>
   <rect width="1200" height="270" rx="8" fill="#F6F0E6"/>
   <rect x="0" y="0" width="14" height="270" fill="#FF7657"/>
   <rect x="1186" y="0" width="14" height="270" fill="#AFA2FF"/>
   <line x1="58" y1="86" x2="1142" y2="86" stroke="#161616" stroke-opacity=".16" stroke-width="2"/>
   <line x1="58" y1="218" x2="1142" y2="218" stroke="#161616" stroke-opacity=".16" stroke-width="2"/>
-  <text x="58" y="54" fill="#161616" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">ALDEN / HARDWARE ENGINEERING</text>
+  <text x="58" y="54" fill="#161616" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">ALDEN / SOFTWARE ENGINEERING</text>
   <text x="58" y="160" fill="#161616" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">Alden Noronha</text>
-  <text x="58" y="194" fill="#161616" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Hardware-minded developer · embedded systems builder · product engineer</text>
-  <text x="1142" y="252" text-anchor="end" fill="#161616" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic">Measure. Build. Debug. Repeat.</text>
+  <text x="58" y="194" fill="#161616" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Software engineer · full-stack developer · product builder</text>
+  <text x="1142" y="252" text-anchor="end" fill="#161616" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic">Design. Build. Ship. Repeat.</text>
 </svg>

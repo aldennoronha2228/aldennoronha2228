@@ -1,4 +1,4 @@
-<!-- Hardware engineering profile board: warm paper, ink, signal orange, and scope violet. -->
+<!-- Software engineering profile board with a maker's blueprint signature. -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/wireup-blueprint.jpeg" alt="Wireup blueprint illustration featuring Arduino, ESP32, robotics, and circuit diagrams" width="100%" />
@@ -7,19 +7,19 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/identity-card.svg" alt="Alden Noronha, hardware-minded developer, embedded systems builder, and product engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/identity-card.svg" alt="Alden Noronha, software engineer and full-stack developer" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/hardware-process.svg" alt="Hardware engineering process: design, build, verify" width="100%" />
+  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/hardware-process.svg" alt="Software product process: design, build, verify" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/engineering-focus.svg" alt="Engineering focus: hardware, software, and the observe prototype debug workbench loop" width="100%" />
+  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/engineering-focus.svg" alt="Software engineering focus: products, systems, and the plan build ship workflow" width="100%" />
 </p>
 
 <br/>
@@ -28,14 +28,14 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,figma,linux&perline=9" alt="Arduino, C, C++, Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Git, GitHub, VS Code, Figma, and Linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,git,github,vscode,figma,linux,arduino,c,cpp&perline=9" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, MongoDB, MySQL, Git, GitHub, VS Code, Figma, Linux, Arduino, C, and C++" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EMBEDDED-161616?style=for-the-badge&logo=arduino&logoColor=D9FF62" alt="Embedded systems" />
   <img src="https://img.shields.io/badge/FULL--STACK-161616?style=for-the-badge&logo=javascript&logoColor=FF7657" alt="Full-stack development" />
-  <img src="https://img.shields.io/badge/PROTOTYPING-161616?style=for-the-badge&logo=figma&logoColor=AFA2FF" alt="Prototyping" />
+  <img src="https://img.shields.io/badge/PRODUCT%20ENGINEERING-161616?style=for-the-badge&logo=react&logoColor=D9FF62" alt="Product engineering" />
+  <img src="https://img.shields.io/badge/MAKER%20PROJECTS-161616?style=for-the-badge&logo=arduino&logoColor=AFA2FF" alt="Maker projects" />
 </p>
 
 <br/>
@@ -65,7 +65,7 @@ Experiments, iterations, and shipped systems.
 
 <br/>
 
-## From bench to build
+## From idea to shipped product
 
 **[Inspect the work →](https://github.com/Aldennoronha2228)**
 
