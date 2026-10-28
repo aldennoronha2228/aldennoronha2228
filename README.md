@@ -6,12 +6,9 @@
 
 <br/>
 
-<div align="center">
-  <h1>Alden Noronha</h1>
-  <p><strong>Hardware-minded developer · embedded systems builder · product engineer</strong></p>
-  <p>Building practical systems where electronics, firmware, interfaces, and backend services work together.</p>
-  <p><em>Measure. Build. Debug. Repeat.</em></p>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/identity-card.svg" alt="Alden Noronha, hardware-minded developer, embedded systems builder, and product engineer" width="100%" />
+</p>
 
 <br/>
 
