@@ -6,6 +6,15 @@
 
 <br/>
 
+<div align="center">
+  <h1>Alden Noronha</h1>
+  <p><strong>Hardware-minded developer · embedded systems builder · product engineer</strong></p>
+  <p>Building practical systems where electronics, firmware, interfaces, and backend services work together.</p>
+  <p><em>Measure. Build. Debug. Repeat.</em></p>
+</div>
+
+<br/>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/aldennoronha2228/aldennoronha2228/main/hardware-process.svg" alt="Hardware engineering process: design, build, verify" width="100%" />
 </p>
